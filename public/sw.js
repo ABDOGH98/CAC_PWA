@@ -10,7 +10,7 @@ if ("serviceWorker" in navigator) {
 }
 
 const staticCache = "assets-v29"; // Can be any string
-const dynamicCache = "dynamic-v14";
+const dynamicCache = "dynamic-v15";
 const cachedAssets = [
 	"../src/img/logo.png",
 	"../src/img/bg_home.png",

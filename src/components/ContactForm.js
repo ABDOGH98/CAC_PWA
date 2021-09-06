@@ -187,7 +187,7 @@ export default function ContactForm() {
 
 					<div className="m-1">
 						<Recaptcha
-							sitekey="6Lc8yUgcAAAAAJnNZ0K9GDPA9AHvctx2Ou2kjxyw"
+							sitekey={process.env.REACT_APP_KEY}
 							render="explicit"
 							verifyCallback={verifyCallback}
 							onloadCallback={loadCallback}
