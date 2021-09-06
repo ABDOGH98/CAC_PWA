@@ -1,0 +1,8 @@
+.centerText {
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.centerMD {
+	left: 5%;
+}
