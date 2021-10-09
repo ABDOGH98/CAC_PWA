@@ -1,5 +1,5 @@
-#Progressive Web Application (PWA) 
-##tools : ReactJs , Contentful , mailjs , Tailwind CSS
+# Progressive Web Application (PWA) 
+## tools : ReactJs , Contentful , mailjs , Tailwind CSS
 
 ![6](https://user-images.githubusercontent.com/63199884/136671378-d22dffd8-8d24-4aed-af92-13a8b20e1269.jpeg)
 ![7](https://user-images.githubusercontent.com/63199884/136671379-f5c0a74b-858f-43cc-89a3-617796fc70ba.jpeg)
